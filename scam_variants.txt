@@ -19,12 +19,13 @@ By running the python the current scammers use they can extract all the user dat
 
 Of course the Scammers keep changing their tactics so people keep falling for them, for example this Bot DM recently started going around saying something about 14 Free boosts (Which btw would cost 34,99USD per Month...). Since Bots can write so called "rich embeds" (aka those Messages inside these boxes with a colored line on the side) **they can use this feature to hide their scam domains** (Mentioned in "1. Nitro/Boost links") behind text. Dont just click on these links! If you are not sure if its legit you can still right click those links and click "Copy Link" and then paste them in a Text editor.
 
-4. Steam Account scam (Screenshot TBA)
+4. Discord Testers/Discord Badges (Add example Screenshot in pictures/discord_mod_badge_scam.png)
+
+This Scam pretends to be a discord official account (Note: Discord devs always have the developer badge!) telling you that you are invited to get the Discord Moderatior badge on the Discord Testers server.
+The link in this post, discord-testers.com is obviously **NOT owned by Discord, discord only uses discord.com** (discordapp.com for their CDN) for offcial stuff. **Never click on links like these.**
+
+5. Steam Account scam (Screenshot TBA)
 
 There is a scam going around where Scammers tell you that they accidentally reported your STEAM account for having stolen/hacked games.
 TBA
 
-5. Discord Testers/Discord Badges (Add example Screenshot in pictures/discord_mod_badge_scam.png)
-
-This Scam pretends to be a discord official account (Note: Discord devs always have the developer badge!) telling you that you are invited to get the Discord Moderatior badge on the Discord Testers server.
-The link in this post, discord-testers.com is obviously NOT owned by Discord, discord only uses discord.com (discordapp.com for their CDN) for offcial stuff. Never click on links like these.
