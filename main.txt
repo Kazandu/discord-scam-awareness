@@ -1,0 +1,16 @@
+**__Spammers, Scammers and how to protect yourself from it__**
+
+Some might think "Why did I get pinged for this again?" because they already got these Kind of messages on many other servers but since the amount of reports about scam attacks in DMs, spam on our server and account takeovers skyrocketed we felt like we'd have to post something too to address this.
+
+Discord has a big problem with Scams and Spam obviously. They are trying to fight it by adding "Report Spam" buttons and they plan stuff like suspicious link systems or captchas to make it harder to run selfbot scams (See <https://discord.com/blog/how-discord-is-fighting-spam> ) but so far this didnt really fix the situation.
+
+This post will be pretty long but we'd be happy if you'd still read through it all to protect you and the others on here :topiheart: 
+
+**"What should I do when i get messaged by a scammer?"**
+Always press the report spam button when discord already rolled that feature out for you already and please also report them to us for example in #help-desk . In the best case you can provide the User ID and a Screenshot of the DM with us, if you dont know how to do this feel free to ask us in #help-desk too!
+
+**__TL;DR__**
+-Don't blindly click any links, especially from strangers
+-Be wary about "free" offers for "paid" services, especially when you hear about it from a stranger
+-Don't run any code/program you don't understand
+-Report any suspicious behaviour from any member to us in #SUPPORTCHANNELHERE , if you are not sure feel free to DM @MODROLEHERE instead!
