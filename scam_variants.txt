@@ -24,8 +24,8 @@ Of course the Scammers keep changing their tactics so people keep falling for th
 This Scam pretends to be a discord official account (Note: Discord devs always have the developer badge!) telling you that you are invited to get the Discord Moderatior badge on the Discord Testers server.
 The link in this post, discord-testers.com is obviously **NOT owned by Discord, discord only uses discord.com** (discordapp.com for their CDN) for offcial stuff. **Never click on links like these.**
 
-5. Steam Account scam (Screenshot TBA)
+5. Steam Account scam (Screenshot pictures/steam_scam.png)
 
 There is a scam going around where Scammers tell you that they accidentally reported your STEAM account for having stolen/hacked games.
-TBA
+So far we don't know what their exact goal is with that method since we dont have any data about a case which goes further than the ones seen in the Screenshots but it could be a fake steam website where they want you to login with your data so they can steal your steam account or something similar. If you have a further developed example I'd be happy if you could send it to me via an issue!
 
