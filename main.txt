@@ -4,7 +4,7 @@ Some might think "Why did I get pinged for this again?" because they already got
 
 Discord has a big problem with Scams and Spam obviously. They are trying to fight it by adding "Report Spam" buttons and they plan stuff like suspicious link systems or captchas to make it harder to run selfbot scams (See <https://discord.com/blog/how-discord-is-fighting-spam> ) but so far this didnt really fix the situation.
 
-This post will be pretty long but we'd be happy if you'd still read through it all to protect you and the others on here :topiheart: 
+Reducing the amount of external profiles visible on your profile can reduce the amount of messages you get since they cant use tricks like the Steam Scam (See Variations below) on you. You can still use the advantages of connections by not removing the connections but just toggle the "Display on Profile" option to off in Settings/Connections!
 
 **"What should I do when i get messaged by a scammer?"**
 Always press the report spam button when discord already rolled that feature out for you already and please also report them to us for example in #help-desk . In the best case you can provide the User ID and a Screenshot of the DM with us, if you dont know how to do this feel free to ask us in #help-desk too!
