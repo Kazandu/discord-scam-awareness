@@ -1,23 +1,23 @@
 There mostly are these kind of attacks:
 
 1. Free Nitro/Boost links (Add example Screenshot in pictures/free_nitro-boost_scam.png)
-Many Scammers try to lure users into their trap by posting link to allegedly free discord nitro codes or recently also free boosts to use on servers. For some this might be common sense but always be wary about FREE offers for PAID services! Yes, there were offers for free nitro in the past but those were announced by the official Xbox social media channels and got rolled out through your microsoft account and not by clicking a link. In general you should always be wary about clicking any links on discord, especially from people you dont know well enough.
+Many Scammers try to lure users into their trap by posting link to allegedly free discord nitro codes or recently also free boosts to use on servers. For some this might be common sense but **always be wary about FREE offers for PAID services!** Yes, there were offers for free nitro in the past but those were announced by the official Xbox social media channels and got rolled out through your microsoft account and not by clicking a link. In general you should always be wary about clicking any links on discord, especially from people you dont know well enough.
 
 Example:
 The user got the Weebs role so we assume that this one is an account which got taken over. The text sounds premade and uses @/everyone followed by a link which should already raise suspicion... discordG.link ? steam offering free nitro through boost-nitro.shop instead of their steampowered.com domain???? 
 
-discord only uses discord.com (The CDN still uses discordapp.com but they announced to change it to discord.com in the future)! Always check the links and maybe rather google about the alleged giveaway. Don't even click on these links if you are not sure!
+**discord only uses discord.com (The CDN still uses discordapp.com but they announced to change it to discord.com in the future)! Always check the links and maybe rather google about the alleged giveaway. Don't even click on these links if you are not sure!**
 
 2. DM Scammers (Add example Screenshot in pictures/dm_python_game_scam.png)
-Another type of scammers are the ones which dont post publicly on servers but rather DM random Members and ask them to try their python based game or straight up asking to buy your account. The "victim" in this case (In the screenshot) pretended to fall for the trap to get the full scam recorded.
+Another type of scammers are the ones which dont post publicly on servers but rather DM random Members and ask them to try their python based game or straight up asking to buy your account. 
 
-NEVER EVER run ANY code on your computer when you dont know the person who wrote it! Even if you know them you should be REALLY cautious, especially if you cant understand the code they want you to run. 
+**NEVER EVER run ANY code on your computer when you dont know the person who wrote it! Even if you know them you should be REALLY cautious, especially if you cant understand the code they want you to run. **
 
-By running the python the current scammers use they can extract all the user date linked to your profile like your email, your credit card number etc. . They also grab your friendlist which makes your friends their potential next target. 
+By running the python the current scammers use they can extract all the user date linked to your profile like your email, your credit card number etc. . They also grab your friendlist which makes your friends their potential next target.
 
 3. Bot DM Scams (Add example Screenshot in pictures/bot_dm_scam.png)
 
-Of course the Scammers keep changing their tactics so people keep falling for them, for example this Bot DM recently started going around saying something about 14 Free boosts (Which btw would cost 34,99USD per Month...). Since Bots can write so called "rich embeds" (aka those Messages inside these boxes with a colored line on the side) they can use this feature to hide their scam domains (Mentioned in "1. Nitro/Boost links") behind text. Dont just click on these links! If you are not sure if its legit you can still right click those links and click "Copy Link" and then paste them in a Text editor.
+Of course the Scammers keep changing their tactics so people keep falling for them, for example this Bot DM recently started going around saying something about 14 Free boosts (Which btw would cost 34,99USD per Month...). Since Bots can write so called "rich embeds" (aka those Messages inside these boxes with a colored line on the side) **they can use this feature to hide their scam domains** (Mentioned in "1. Nitro/Boost links") behind text. Dont just click on these links! If you are not sure if its legit you can still right click those links and click "Copy Link" and then paste them in a Text editor.
 
 4. Steam Account scam (Screenshot TBA)
 
